@@ -1,4 +1,4 @@
-# Profiler de Escalonamento de Memória para LLMs (Scaling Curve Profiler)
+# Medidor de Escalonamento de Memória para LLMs (Scaling Curve Profiler)
 
 <div align="justify">
 
